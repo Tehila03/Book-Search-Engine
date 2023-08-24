@@ -41,6 +41,9 @@ npm run develop
 
 ## Deployed Application
 
+You can view the live application 
+[here]
+
 ## Contributing
 
 1. Fork it (<https://github.com/Tehila03/Book-Search-Engine/forks>)
