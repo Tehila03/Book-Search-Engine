@@ -2,7 +2,7 @@
 
 ## Description
 
-This MERN app enables users to search, view detailed book info, and save them for later. It uses Apollo Client, MongoDB, and Mongoose for secure transactions and authentication via tokens, ensuring unique user-specific data.
+This MERN application utilizes Google's Book API to empower users to discover and save new books. Through secure transactions and token-based authentication using Apollo Client, MongoDB, and Mongoose, users can log in, save desired books, and manage their library effortlessly.
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
