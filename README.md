@@ -49,6 +49,9 @@ You can view the live application
 [[here](https://mern-book--search-eeaf49b983e4.herokuapp.com/)]
 
 
+<img width="1001" alt="Screen Shot 2023-09-14 at 10 28 05 PM" src="https://github.com/Tehila03/Book-Search-Engine/assets/125328462/501ebda6-613f-4208-906e-c5c6ad987be1">
+
+
 ## Contributing
 
 1. Fork it (<https://github.com/Tehila03/Book-Search-Engine/forks>)
